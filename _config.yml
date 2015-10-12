@@ -14,9 +14,8 @@ author :
   name : Bill Barnhill
   email : bill.barnhill@communitivity.net
   github : BillBarnhill
-  twitter : @BillBarnhill
-
-#  feedburner : feedname
+  twitter : BillBarnhill
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
