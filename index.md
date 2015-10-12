@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SharedWorlds.Info
-tagline: Reviews, Writing Tips, and Announcements on Shared World Fiction
+tagline: Everything and Anything on Shared World Fiction
 ---
 {% include JB/setup %}
 
